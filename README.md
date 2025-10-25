@@ -1,6 +1,6 @@
 # Project Hub with Smart Scheduler
 
-A full-stack project management application with intelligent task scheduling capabilities. Manage projects, create tasks, and leverage AI-powered scheduling to optimize your workflow.
+A full-stack project management application with intelligent task scheduling capabilities. Manage projects, create tasks, and leverage smart scheduling algorithms to optimize your workflow.
 
 ## 🌐 Live Demo
 
@@ -15,7 +15,7 @@ A full-stack project management application with intelligent task scheduling cap
 - 🔐 **User Authentication** - Secure registration and login with JWT tokens
 - 📊 **Project Management** - Create and manage multiple projects
 - ✅ **Task Management** - Add, edit, and track tasks with due dates
-- 🧠 **Smart Scheduling** - AI-powered task scheduling using topological sorting
+- 🧠 **Smart Scheduling** - Intelligent task scheduling using topological sorting algorithm
 - 📈 **Dependency Management** - Handle task dependencies automatically
 - 🎯 **Priority Optimization** - Tasks ordered by due date and estimated hours
 - 📱 **Responsive Design** - Works seamlessly on desktop and mobile

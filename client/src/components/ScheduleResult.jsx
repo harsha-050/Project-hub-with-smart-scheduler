@@ -57,7 +57,7 @@ export default function ScheduleResult({ result, onReset, tasks = [] }) {
     <div className="max-w-5xl mx-auto">
       <div className="bg-gradient-to-r from-blue-500 to-purple-600 text-white p-6 rounded-lg shadow-lg mb-6">
         <h2 className="text-2xl font-bold">📅 Optimized Schedule</h2>
-        <p className="text-blue-100 mt-1">AI-powered task scheduling with timeline</p>
+        <p className="text-blue-100 mt-1">Smart task scheduling with timeline</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
@@ -140,7 +140,7 @@ export default function ScheduleResult({ result, onReset, tasks = [] }) {
         <div className="bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 p-5 rounded-r-lg mt-6 shadow-md">
           <h3 className="text-lg font-semibold text-gray-800 mb-2 flex items-center">
             <span className="mr-2">💡</span>
-            AI Scheduling Insights
+            Scheduling Insights
           </h3>
           <p className="text-gray-700 leading-relaxed">{result.reasoning}</p>
         </div>

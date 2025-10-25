@@ -356,7 +356,7 @@ const ProjectDetails = () => {
             <span className="text-lg">🚀</span>
             <span>Smart Schedule Tasks</span>
           </button>
-          <p className="text-xs text-gray-600 mt-2">AI-powered task scheduling for optimal productivity</p>
+          <p className="text-xs text-gray-600 mt-2">Intelligent task scheduling for optimal productivity</p>
         </div>
       </main>
 
