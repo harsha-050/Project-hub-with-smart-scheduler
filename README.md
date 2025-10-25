@@ -166,30 +166,9 @@ Automatically deployed via GitHub Actions on push to `main` branch.
 ### Backend APIs (Render)
 Both APIs are containerized and deployed on Render with automatic deployments.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
 **Harsha**
 - GitHub: [@harsha-050](https://github.com/harsha-050)
 
-## 🙏 Acknowledgments
 
-- React community for excellent documentation
-- ASP.NET Core team for the robust framework
-- Render for free hosting services
-- GitHub for GitHub Pages hosting
-
----
-
-⭐ Star this repo if you find it helpful!
