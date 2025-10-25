@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',
+  base: '/Project-hub-with-smart-scheduler/',
   server: {
     port: 5173,
     proxy: {
