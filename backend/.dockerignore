@@ -1,0 +1,8 @@
+.git
+.gitignore
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
