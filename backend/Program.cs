@@ -35,11 +35,11 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>() 
-            ?? new[] { "http://localhost:5173", "http://localhost:3000" };
-        
-        policy.WithOrigins(allowedOrigins)
-              .SetIsOriginAllowedToAllowWildcardSubdomains()
+        policy.WithOrigins(
+                "https://harsha-050.github.io",
+                "http://localhost:5173",
+                "http://localhost:3000"
+              )
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
